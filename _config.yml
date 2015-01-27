@@ -1,6 +1,6 @@
-name: Solar Theme
+name: Dimitar Blog
 baseurl: /blog
-description: A stylish blog using the Solarized color palette
+description: A blog without a theme
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
