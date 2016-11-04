@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "rpisec_nuke binary exploitation writeup"
-date:   2015-05-14 00:15:00
+date:   2015-04-04 00:00:00
 categories: memory corruption
 ---
 
