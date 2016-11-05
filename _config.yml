@@ -4,6 +4,6 @@ description: A blog without a theme
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
-highlighter: pygments
+highlighter: rouge
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
