@@ -264,12 +264,7 @@ Looking at the graph of angle kappa, we can see that angle kappa becomes smaller
 
 
 
-
-
 In short, the strafing angle for single-beat (epsilon) begins at about 22º and increases. It's about 33º at 1000ups. The half-beat angle (kappa) begins at about 23º and decreases. It's about 12º at 1000ups.
-
-
-
 
 
 
@@ -280,7 +275,3 @@ In short, the strafing angle for single-beat (epsilon) begins at about 22º and 
 
 
 This is the boundary between a speed increase and a speed decrease.
-
-## END
-
-<img src="{{ "/images/rpisec_nuke/menu.png" | prepend: site.baseurl }}"/>
